@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "IOlink",
+            "includePath": [
+                "C:/software/keil5/ARM/ARMCC/include",
+                "${workspaceFolder}/MyFinalProject/Core/Inc",
+                "${workspaceFolder}/MyFinalProject/Drivers/STM32F4xx_HAL_Driver/Inc",
+                "${workspaceFolder}/MyFinalProject/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy",
+                "${workspaceFolder}/MyFinalProject/Drivers/CMSIS/Device/ST/STM32F4xx/Include",
+                "${workspaceFolder}/MyFinalProject/Drivers/CMSIS/Include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "__CC_ARM",
+                "USE_HAL_DRIVER",
+                "STM32F407xx"
+            ]
+         
+        }
+    ],
+    "version": 4
+}
