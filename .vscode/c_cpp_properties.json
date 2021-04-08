@@ -4,11 +4,11 @@
             "name": "IOlink",
             "includePath": [
                 "C:/software/keil5/ARM/ARMCC/include",
-                "${workspaceFolder}/MyFinalProject/Core/Inc",
-                "${workspaceFolder}/MyFinalProject/Drivers/STM32F4xx_HAL_Driver/Inc",
-                "${workspaceFolder}/MyFinalProject/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy",
-                "${workspaceFolder}/MyFinalProject/Drivers/CMSIS/Device/ST/STM32F4xx/Include",
-                "${workspaceFolder}/MyFinalProject/Drivers/CMSIS/Include"
+                "${workspaceFolder}/FinalVersion/Core/Inc",
+                "${workspaceFolder}/FinalVersion/Drivers/STM32F4xx_HAL_Driver/Inc",
+                "${workspaceFolder}/FinalVersion/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy",
+                "${workspaceFolder}/FinalVersion/Drivers/CMSIS/Device/ST/STM32F4xx/Include",
+                "${workspaceFolder}/FinalVersion/Drivers/CMSIS/Include"
             ],
             "defines": [
                 "_DEBUG",
